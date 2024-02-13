@@ -61,3 +61,11 @@
   border-color: #D68C45;
 }
 
+.imagesRow {
+  display: flex;
+  flex-direction: row;
+}
+
+.logo {
+  height: 5vh;
+}
